@@ -1,4 +1,4 @@
 # apnaCollege-demo
 This is my Git Repository.
 <br>
-Author - Anurag Nigam
+Author - Anurag Nigam (Student)
